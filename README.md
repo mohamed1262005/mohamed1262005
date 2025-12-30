@@ -32,8 +32,7 @@ I'm a passionate developer focused on building systems that combine **Computer V
 
 ---
 ---
-
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed1262005&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed1262005&layout=compact&theme=tokyonight)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mohamed1262005.mohamed1262005)
+https://github-readme-stats.vercel.app/api?username=mohamed1262005&show_icons=true&theme=tokyonight
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed1262005&layout=compact&theme=tokyonight
