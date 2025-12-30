@@ -38,10 +38,8 @@ I strongly believe that AI should be used to **improve human lives**, especially
 
 ---
 
-### 📫 Connect with Me
-[![LinkedIn](https://www.linkedin.com/in/mohamed-sameh-abdo-988a13336?)
+### 📫 Connect with Me### 📫 Connect with Me
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Sameh-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-sameh-abdo-988a13336)
 
-### 📊 GitHub Stats### 📫 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-mohamed1262005-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamed1262005)
