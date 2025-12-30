@@ -30,11 +30,16 @@ I'm a passionate developer focused on building systems that combine **Computer V
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 
----
-### 📊 GitHub Stats
+---### 📊 GitHub Stats
 
-![Mohamed's Stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=mohamed1262005&show_icons=true&theme=tokyonight)
+<p align="left">
+<img src="https://github-readme-stats-one-eight.vercel.app/api?username=mohamed1262005&show_icons=true&theme=tokyonight" alt="Mohamed Stats" />
+</p>
 
-![Top Langs](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=mohamed1262005&layout=compact&theme=tokyonight)
+<p align="left">
+<img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=mohamed1262005&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mohamed1262005.mohamed1262005)
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed1262005&theme=tokyonight" alt="GitHub Streak" />
+</p>
